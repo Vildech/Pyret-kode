@@ -1,0 +1,3 @@
+overlay-align("middle", "top", circle(60, "solid", "pink"),
+  overlay-align("middle", "bottom", rectangle(10, 150, "solid", "white"), 
+    rectangle(120, 220, "solid", "transparent")))
